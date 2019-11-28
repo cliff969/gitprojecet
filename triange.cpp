@@ -110,12 +110,16 @@ void ap(Point p1,Point p2,Point p3){
 
 //22222
 //33333
-<<<<<<< HEAD
+
 //dev_guo 1
-=======
+
 //dev_li 1
->>>>>>> dev_li
+
 
 //2019.11.28
 //444444
+<<<<<<< HEAD
 //555555
+=======
+//dev_guo 2
+>>>>>>> dev_guo
